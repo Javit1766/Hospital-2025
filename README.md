@@ -2,4 +2,5 @@
 
 Interfaz de la ventana
 
-![Captura de pantalla -2025-05-19 02-58-02](https://github.com/user-attachments/assets/9668024e-270d-4283-803c-af587b39db5c)
+![Captura de pantalla -2025-05-19 03-08-42](https://github.com/user-attachments/assets/1d3de4a9-fe65-4fd3-9757-28a4a091da95)
+
